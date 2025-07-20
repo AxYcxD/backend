@@ -6,3 +6,4 @@ python-multipart
 httpx
 aiohttp
 python-dotenv
+aiosqlite
