@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+aiofiles
+email-validator
+python-multipart
+httpx
+aiohttp
+python-dotenv
