@@ -6,4 +6,5 @@ python-multipart
 httpx
 aiohttp
 python-dotenv
+databases[sqlite]
 aiosqlite
